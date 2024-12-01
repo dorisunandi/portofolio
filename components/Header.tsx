@@ -22,7 +22,7 @@ DORI's Portofolio <span className='text-accent'>#</span>
     <Nav />
     
     <Link href='/contact'>
-    <Button> Here Me</Button>
+    <Button variant='outline'> Here Me</Button>
     </Link>
     </div>
 <div className='xl:hidden'>
