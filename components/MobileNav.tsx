@@ -16,8 +16,8 @@ const links = [
     path: '/services',
   },
   {
-    name: 'resume',
-    path: '/resume',
+    name: 'Play Ground',
+    path: '/Play_Ground',
   },
   {
     name: 'work',

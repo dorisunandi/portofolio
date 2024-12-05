@@ -1,0 +1,24 @@
+.size1{
+    font-size: 3em;
+}
+.hitungan{
+    display: block;
+    text-align: center;
+    font-size: 7em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: 'accent';
+   
+}
+.tombolcontainer{
+    text-align: center;
+    color: #000;
+}
+
+
+.centered {
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    border: 1px solid aqua;
+    border-color: 'accent';
+}

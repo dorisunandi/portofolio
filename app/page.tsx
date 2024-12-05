@@ -1,4 +1,4 @@
-import { AlignCenter } from "lucide-react";
+import App from "./Play_Ground/page";
 
 export default function Home() {
   return (
@@ -8,7 +8,6 @@ export default function Home() {
   <br />
 <img src="fotoku.jpeg" alt="w" width={300} height={300}  /* Tentukan tinggi */
         className="circular-image "/>foto ini di ambil pada tahun 2015
-
 </div>
     </main>
     

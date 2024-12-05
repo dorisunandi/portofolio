@@ -18,8 +18,8 @@ const Links = [
 
     },
     {
-        name : 'resume',
-        path : '/resume',
+        name : 'Play Ground',
+        path : '/Play_Ground',
 
     },
     {
