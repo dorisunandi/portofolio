@@ -1,9 +1,8 @@
-import App from "./Play_Ground/page";
 
 export default function Home() {
   return (
-    <main className="container">
-<div className="container text-2xl font-semibold"> Selamat Datang di Web Portofolio saya</div>
+    <main className="container items-center" >
+<div className="container text-2xl font-semibold "> Selamat Datang di Web Portofolio saya</div>
 <div >
   <br />
 <img src="fotoku.jpeg" alt="w" width={300} height={300}  /* Tentukan tinggi */
